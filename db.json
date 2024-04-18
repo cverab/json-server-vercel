@@ -543,6 +543,42 @@
       "categoria": "Front End",
       "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. \nHarland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
       "seccode": "qwerty"
+    },
+    {
+      "id": "2f0d81e0-2a36-49c9-8ce4-d17600abda92",
+      "titulo": "Marketing personal para programadores #AluraMás",
+      "linkVideo": "https://www.youtube.com/watch?v=PEGmLW-a0h8",
+      "linkImagen": "https://img.youtube.com/vi/PEGmLW-a0h8/maxresdefault.jpg",
+      "categoria": "Marketing Digital",
+      "descripcion": "Aprende a promover tu propia imagen aplicando Marketing Personal, crea nuevas oportunidades y destácate entre la competencia. Para quienes desean actuar en el área de programación, separamos 7 tips de como puedes hacer tu Marketing Personal para empezar a impulsar tu carrera en programación.\n",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "3034223c-5ae0-4e9f-8f67-4de5b047c463",
+      "titulo": "Creando un sistema Python utilizando la API de #ChatGPT | Websérie IA",
+      "linkVideo": "https://www.youtube.com/watch?v=l9WNVMnddWU",
+      "linkImagen": "https://img.youtube.com/vi/l9WNVMnddWU/maxresdefault.jpg",
+      "categoria": "Infraestructura",
+      "descripcion": "En este emocionante episodio, te guiaremos paso a paso en la creación de un sistema Python, utilizando la API  de ChatGPT de OpenAI y Google Colab. Aprenderás a integrar tecnologías de IA a través de una API (Interfaz de Programación de Aplicaciones) para construir un asistente capaz de generar respuestas inteligentes basadas en un contexto proporcionado. Desde la configuración inicial hasta la construcción de un sistema Python, te sumergirás en el fascinante mundo de la IA y la programación colaborativa en la nube. ¡No te pierdas esta experiencia educativa y práctica!\n",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "ef40dc92-7a71-4c0a-a1ac-e076dd926b60",
+      "titulo": "¿Cuál es el mejor Editor de Codigo?",
+      "linkVideo": "https://www.youtube.com/watch?v=dSA6PuKB-ik",
+      "linkImagen": "https://img.youtube.com/vi/dSA6PuKB-ik/maxresdefault.jpg",
+      "categoria": "Mobile",
+      "descripcion": "¿Cuál es la diferencia entre un editor de código y un IDE? ¿Hay alguna opción mejor entre los editores de código? ¿Cuáles son los editores de código más recomendados para quienes están empezando en la carrera de programación?\n",
+      "seccode": "qwerty"
+    },
+    {
+      "id": "d3ea79eb-ca84-4e22-8de3-1e97ad9387af",
+      "titulo": "Cómo ser más productivo | #aluramás",
+      "linkVideo": "https://www.youtube.com/watch?v=TF_Rde1kbw8",
+      "linkImagen": "https://img.youtube.com/vi/TF_Rde1kbw8/maxresdefault.jpg",
+      "categoria": "Innovación y Gestión",
+      "descripcion": "Desde la gestión del tiempo hasta la optimización del espacio de trabajo, cada aspecto crucial de la productividad será desglosado con claridad y precisión. Descubrirás cómo identificar tus prioridades, eliminar distracciones y mantener un enfoque agudo en tus metas a largo plazo.",
+      "seccode": "qwerty"
     }
   ]
 }
