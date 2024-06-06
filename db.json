@@ -663,8 +663,6 @@
     {
       "fondo": "https://cverab.github.io/portafolio/img/FreeCodeCampLogo.png",
       "titulo": "Responsive Web Desing",
-      "pageurl": "placeholder",
-      "demoUrl": "demo url",
       "javascript": true,
       "html": true,
       "css": true,
