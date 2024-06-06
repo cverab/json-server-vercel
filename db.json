@@ -669,32 +669,28 @@
       "html": true,
       "css": true,
       "react": false,
-      "github": true,
-      "demo": true
+      "github": false,
+      "demo": false
     },
     {
       "fondo": "https://cverab.github.io/portafolio/img/OracleNextEducationLogo.png",
       "titulo": "Principiante en programación",
-      "pageurl": "placeholder",
-      "demoUrl": "demo url",
       "javascript": true,
       "html": true,
       "css": true,
       "react": false,
-      "github": true,
-      "demo": true
+      "github": false,
+      "demo": false
     },
     {
       "fondo": "https://cverab.github.io/portafolio/img/OracleNextEducationLogo.png",
       "titulo": "Front End",
-      "pageurl": "placeholder",
-      "demoUrl": "demo url",
       "javascript": true,
       "html": true,
       "css": true,
       "react": false,
-      "github": true,
-      "demo": true
+      "github": false,
+      "demo": false
     }
   ]
 }
