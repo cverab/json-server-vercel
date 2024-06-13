@@ -691,7 +691,7 @@
       "javascript": true,
       "html": true,
       "css": true,
-      "react": false,
+      "react": true,
       "github": false,
       "demo": false
     }
